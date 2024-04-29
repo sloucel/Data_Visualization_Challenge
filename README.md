@@ -18,4 +18,4 @@ Data Visualization Challenge
 Added to the top of the pymaceutiacals_starter.ipynb file
 
 # Assistance
-Used a combination of class assignemts, xpert learning assitance, and chatgpt to build and debug the code. 
+Used a combination of class assignments, xpert learning assitance, and chatgpt to build and debug the code. 
